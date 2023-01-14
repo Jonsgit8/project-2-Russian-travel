@@ -3,18 +3,17 @@
 Dear reviewer, u r the first who looking on my project of trying to master a new profession of web development in part of frontend.
 In this project I tried to use HTML & CSS languages.
 
-You can download this project like zip-archive from your [yandex practicum] (https://www.practicum.yandex.ru) or in a (https://github.com/) if I'll solve some problem with it.
+You can download this project like zip-archive from your [yandex practicum] (https://www.practicum.yandex.ru) or in a (https://github.com/) if I'll solve some problem with it.(oh, yes, I get it).
 
 For zip-archive opening you have to push mouse's right button and chouse item of open menu **Extract files to...**
 
 oh, easy, it's a joke, I know that you r a "big boy/gerl" and if you are reading this text you have already reached this point.
 
-My plan of further work with this project it's make a refactoring
+My plan of further work with this project it's make a refactoring...
 
 *God, please stop my joking*
 As a true, my plan is:
 1. Сross-browser layout,
-2. Adaptive layout.
 ------ 
 P.S. Few words and many deeds.
 
