@@ -1,6 +1,5 @@
 .places__place {
   max-width: 984px;
-  max-height: 660px;
   padding: 0px 148px 80px 148px;
   display: grid;
   grid-template-columns: calc(45%-14px) calc(55%-14px);
@@ -10,4 +9,9 @@
   margin: 0 auto;
   column-gap: 40px;
   row-gap: 48px;
+}
+@media screen (max-width: 1024px) {
+  .places__place {
+    grid-template-columns: calc(45%-14px) calc(55%-14px);
+  }
 }
