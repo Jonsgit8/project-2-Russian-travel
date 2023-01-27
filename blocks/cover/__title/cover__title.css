@@ -1,5 +1,5 @@
 .cover__title {
-  max-width: 540px; /*try*/
+  max-width: 540px;
   margin: 0 auto;
   padding: 0;
   text-align: center;
@@ -7,20 +7,22 @@
   font-weight: 900;
   line-height: 1.0;
   position: relative;
-  /* display: flex; */
   z-index: 1;
 }
-/* @media screen and (max-width: px) {
-  .cover__title {
-  font-size: ;
-}
-} */
-@media screen and (max-width: 768px) { /*try*/
+
+@media screen and (max-width: 768px) {
   .cover__title {
   font-size: 32px;
   max-width: 288px;
 }
 }
+
+@media screen and (max-width: 750px) {
+  .cover__title {
+  max-width: 254px;
+}
+}
+
 @media screen and (max-width: 320px) {
   .cover__title {
   margin-top: 30px;
