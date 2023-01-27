@@ -2,13 +2,14 @@
   font-family: "Inter";
   font-weight: 400;
   src: url(../fonts/Inter-Regular.otf);
-  url
 }
+
 @font-face {
   font-family: "Inter";
   font-weight: 700;
   src: url(../fonts/Inter-Bold.otf);
 } 
+
 @font-face {
   font-family: "Inter";
   font-weight: 900;
