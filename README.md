@@ -13,12 +13,6 @@ My plan of further work with this project it's make a refactoring...
 
 *God, please stop my joking*
 So, I told you the true about my plan with this progect, I was so f*cked of it, thet's why I want to forget it as soon as I can! Joke another one!
-I'll try to make my code more clear as soon as I can.
+I'll try to make my code more clear as soon as I can, and maybe will make this site from 320px to 1280px.
 ------ 
 P.S. Few words and many deeds.
-
-
-**Картинки**
-
-Доставать картинки предстоит из Фигмы. Это расхожая практика, поэтому полезно потренироваться.
-Не забудьте [оптимизировать картинки](https://tinypng.com/), чтобы ваш сайт загружался быстрее.

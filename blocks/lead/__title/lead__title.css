@@ -9,8 +9,8 @@
   text-align: center;
   display: flex;
   padding-top: 56px;
-
 }
+
 @media (max-width: 1024px) {
 .lead__title {
     padding-top: 48px;
