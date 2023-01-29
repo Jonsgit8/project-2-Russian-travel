@@ -1,4 +1,4 @@
-.place__paragraph {
+.places__paragraph {
   font-size: 18px;
   font-weight: 400;
   line-height: 1.65;
@@ -6,6 +6,6 @@
   padding-bottom: 28px;
 }
 
-.place__paragraph:last-child {
+.places__paragraph:last-child {
   padding-bottom: 0;
 }

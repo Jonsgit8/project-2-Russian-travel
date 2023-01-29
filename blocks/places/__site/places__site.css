@@ -1,9 +1,9 @@
-.place__site {
+.places__site {
   align-self:end;
 }
 
 @media (max-width: 710px) {
-  .place__site {
+  .places__site {
     margin-bottom: 32px;
     padding-left: 16px;
   }
