@@ -11,7 +11,7 @@
   .footer__item  {
     font-size: 24px;
     line-height: 24px;
-    padding-bottom: 32px;
+    padding-bottom: 32px; /* margin-bottom ??? */
   }
   
   .footer__item:last-child {

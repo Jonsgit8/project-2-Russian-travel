@@ -2,4 +2,5 @@
   text-decoration: none;
   list-style-type:none;
   color: #FFF;
+  transition: 0.3s ease-in;
 }
