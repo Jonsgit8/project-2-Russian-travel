@@ -1,20 +1,12 @@
 # Проект: Путешествие по России
 
-<<<<<<< Updated upstream
-https://github.com/Jonsgit8/russian-travel/index.html 
-=======
 https://jonsgit8.github.io/russian-travel/
->>>>>>> Stashed changes
 
 Дорогой рицензент, ты первый кто смотрит на мой проект созданный в попытке овладеть профессией веб-разработчика в части "фронтенда"
 
 При разработке использовал языки HTML и CSS
 
-<<<<<<< Updated upstream
-Вы можете загрузить этот проект как zip-архив с (https://github.com/Jonsgit8/russian-travel/index.html ), если я решу кое-какую проблему с github. (о, да, я решил её).
-=======
 Вы можете загрузить этот проект как zip-архив с (https://github.com/Jonsgit8/russian-travel), если я решу кое-какую проблему с github. (о, да, я решил её).
->>>>>>> Stashed changes
 
 Для открытия zip-архива необходимо нажать правую кнопку мыши и выбрать пункт открытого меню **Извлечь файлы в...**
 
@@ -33,11 +25,7 @@ P.S. Меньше говори - делай больше.
 Dear reviewer, u r the first who looking on my project of trying to master a new profession of web development in part of frontend.
 In this project I tried to use HTML & CSS languages.
 
-<<<<<<< Updated upstream
-You can download this project like zip-archive from (https://github.com/Jonsgit8/russian-travel/index.html ) if I'll solve some problem with it.(oh, yes, I get it).
-=======
-You can download this project like zip-archive from (https://github.com/Jonsgit8/russian-travel ) if I'll solve some problem with it.(oh, yes, I get it).
->>>>>>> Stashed changes
+You can download this project like zip-archive from (https://github.com/Jonsgit8/russian-travel) if I'll solve some problem with it.(oh, yes, I get it).
 
 For zip-archive opening you have to push mouse's right button and chouse item of open menu **Extract files to...**
 
