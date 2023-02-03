@@ -8,14 +8,3 @@
 .footer__link:hover {
   opacity: 0.3;
 }
-
-.footer__nav{
-  display: flex;
-  align-items: center;
-}
-
-@media (max-width: 530px) {
-  .footer__link {
-
-  }
-}
