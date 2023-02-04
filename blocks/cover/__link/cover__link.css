@@ -3,4 +3,52 @@
   list-style-type:none;
   color: #FFF;
   transition: 0.3s ease-in;
+  min-height: 740px;
+  max-width: 1184px;
+  background-image: url(../../../images/cover-trains.jpg );
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;
+  margin: 0 auto;
+  padding: 0;
+  text-decoration: none;
+  width: 100%;
+}
+
+.cover__link:before {
+  content: "";
+  position: absolute;
+  width: 100%;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  background: #2A2C2F;
+  display: block;
+  opacity: .3;
+}
+
+.cover__link:hover::before {
+  opacity: .8;
+}
+
+
+@media screen and (max-width: 1024px) {
+  .cover__link {
+    min-height: 640px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .cover__link {
+    min-height: 480px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .cover__link{
+    min-height: 200px;
+  }
 }

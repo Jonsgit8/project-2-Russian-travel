@@ -13,25 +13,12 @@
 @media (max-width: 768px) {
   .places__paragraph {
   font-size: 16px;
-  }
-
-  .places__paragraph:first-child{
-    padding-bottom: 25px;
+  padding-bottom: 25px;
   }
 }
 
 @media (max-width: 680px) {
   .places__paragraph {
-    padding: 32px 16px 0 16px;
-  }
-  
-  .places__paragraph:last-child {
-    padding: 0 16px 0 16px;
-  }
-}
-
-@media (max-width: 320px) {
-  .places__paragraph {
-    line-height: 171%;
+    padding: 0 16px 25px 16px;
   }
 }

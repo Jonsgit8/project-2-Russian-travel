@@ -7,3 +7,9 @@
     max-width: 100%;
   }
 }
+
+@media (max-width: 680px) {
+  .places__paragraphs {
+    padding-top: 32px;
+  }
+}
