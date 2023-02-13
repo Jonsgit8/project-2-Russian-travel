@@ -19,7 +19,7 @@ https://jonsgit8.github.io/russian-travel/
 Итак, по правде говоря, я хочу забыть его, как только смогу! ... Ещё одна шутка!
 Я постараюсь сделать свой код более кратким и, возможно, сделаю разработку этого сайт от 320px до 1280px.
 ------
-P.S. Меньше говори - делай больше.
+P.S. Меньше говори - делай больше
 
 
 Dear reviewer, u r the first who looking on my project of trying to master a new profession of web development in part of frontend.
