@@ -4,3 +4,9 @@
   margin-bottom: 0;
   font-size: 12px;
 }
+
+@media(max-width:320px){
+  .intro__list {
+    margin-top: 34px;
+  }
+}

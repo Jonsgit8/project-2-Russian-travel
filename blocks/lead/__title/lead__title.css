@@ -3,7 +3,7 @@
   width: 100%;
   font-size: 96px;
   font-weight: 900;
-  line-height: 1.07;
+  line-height: 100px;
   margin: 0 auto;
   text-align: center;
   display: flex;
@@ -21,11 +21,5 @@
     font-size: 40px;
     line-height: 44px;
     max-width: 288px;
-  }
-}
-
-@media (max-width: 500px) {
-  .lead__title {
-    padding-top: 48px;
   }
 }
